@@ -45,7 +45,7 @@ export default function WatchDogsCharacters() {
       <div 
         className="absolute inset-0 bg-cover bg-center opacity-20"
         style={{
-          backgroundImage: `url('https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=1920&q=80')`,
+          backgroundImage: `url('/svg/Pattern.svg')`,
           filter: 'grayscale(100%)'
         }}
       />
